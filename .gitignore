@@ -2,6 +2,7 @@
 
 # dependencies
 /top-list/node_modules
+top-list/node_modules
 /.pnp
 .pnp.js
 
